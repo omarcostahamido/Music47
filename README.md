@@ -25,3 +25,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Nick's samples](https://drive.google.com/drive/folders/11kqgcP92VwPceBKyjyvhL3Ni-f9zxg2G?usp=sharing) - book flipping, keyboard tapping, humming
 
 [Farel's samples](https://drive.google.com/drive/folders/1T-WWeBawsetNyqu_OJFRrcNmqRRcAtrl?usp=sharing) - (guitar) single note, chord, finger picked
+
+[Ranjith samples](https://drive.google.com/drive/folders/1t4oepBZkcsdNrOSCiQDXhB6juXIaGaZP?usp=sharing) - keyboard faded, cut, and fast clicks
