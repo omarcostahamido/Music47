@@ -17,3 +17,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Ryan's samples](https://drive.google.com/drive/folders/1Xu5f_8qDl11f0aVDb3aLcmhjIdHDhb0v?usp=sharing) - piano samples (note, arpeggiated chords, weird intervals)
 
 [Daniela's samples](https://drive.google.com/drive/folders/1Q324xZYAyHMiOEpj4ObawmUzXz-V4FI6?usp=sharing) - bottle bang, bottle opening, snap
+
+[Griffin's samples](https://drive.google.com/drive/folders/1wAaBFxN1YJSpgnyxZ5SG41V-z5FzDAwn?usp=sharing) - saxophone samples (one note, two notes, and trill)
