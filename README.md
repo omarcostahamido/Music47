@@ -27,3 +27,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Farel's samples](https://drive.google.com/drive/folders/1T-WWeBawsetNyqu_OJFRrcNmqRRcAtrl?usp=sharing) - (guitar) single note, chord, finger picked
 
 [Ranjith samples](https://drive.google.com/drive/folders/1t4oepBZkcsdNrOSCiQDXhB6juXIaGaZP?usp=sharing) - keyboard faded, cut, and fast clicks
+
+[Kenichi's samples](https://drive.google.com/drive/folders/1I3ndmaL8Cc4jQIBhZuzdgs8QG3Wb7m4t?usp=sharing) - fading water bottle sound
