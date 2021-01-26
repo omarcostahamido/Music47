@@ -23,3 +23,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Amanda's samples](https://drive.google.com/drive/folders/1xizjK-5JzuNPqC1Djv2JwPJH0ekWpBZf?usp=sharing) - pen tapping tin box, water sloshing, plastic bag crinkling
 
 [Nick's samples](https://drive.google.com/drive/folders/11kqgcP92VwPceBKyjyvhL3Ni-f9zxg2G?usp=sharing) - book flipping, keyboard tapping, humming
+
+[Farel's samples](https://drive.google.com/drive/folders/1T-WWeBawsetNyqu_OJFRrcNmqRRcAtrl?usp=sharing) - (guitar) single note, chord, finger picked
