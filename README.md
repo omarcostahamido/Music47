@@ -33,3 +33,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Rushi's Samples](https://drive.google.com/drive/folders/1chrpQCBu7xyhmaGR-r2_xnwLK6UKG4q0?usp=sharing) - fading blop sound, blop sound, blop sound w/ alarm
 
 [Justin Pena's Samples](https://drive.google.com/drive/folders/1GT6rKI1CXiowo0YmPZE0Xru4X6PzS5DS?usp=sharing) - assorted monkey noises
+
+[Kaitlin's samples](https://drive.google.com/drive/folders/1bCQQpiKavjMDTbPt70Sp0ld1pjF_EK4H?usp=sharing) - flute1of3, flute2of3, flute3of3
