@@ -19,3 +19,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Daniela's samples](https://drive.google.com/drive/folders/1Q324xZYAyHMiOEpj4ObawmUzXz-V4FI6?usp=sharing) - bottle bang, bottle opening, snap
 
 [Griffin's samples](https://drive.google.com/drive/folders/1wAaBFxN1YJSpgnyxZ5SG41V-z5FzDAwn?usp=sharing) - saxophone samples (one note, two notes, and trill)
+
+[Amanda's samples](https://drive.google.com/drive/folders/1xizjK-5JzuNPqC1Djv2JwPJH0ekWpBZf?usp=sharing) - pen tapping tin box, water sloshing, plastic bag crinkling
