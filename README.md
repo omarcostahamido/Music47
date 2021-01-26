@@ -31,3 +31,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Kenichi's samples](https://drive.google.com/drive/folders/1I3ndmaL8Cc4jQIBhZuzdgs8QG3Wb7m4t?usp=sharing) - fading water bottle sound
 
 [Rushi's Samples](https://drive.google.com/drive/folders/1chrpQCBu7xyhmaGR-r2_xnwLK6UKG4q0?usp=sharing) - fading blop sound, blop sound, blop sound w/ alarm
+
+[Justin Pena's Samples](https://drive.google.com/drive/folders/1GT6rKI1CXiowo0YmPZE0Xru4X6PzS5DS?usp=sharing) - assorted monkey noises
