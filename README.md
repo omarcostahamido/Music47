@@ -13,3 +13,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Veronica's samples](https://drive.google.com/drive/folders/1NE1Xc0QUgfhrAF22MOfiQjw8DYn6gRsW?usp=sharing) - car door, drumsticks, hi-hat, skateboard
 
 [Justin Davis's samples](https://drive.google.com/drive/folders/1U7wZ5G9XKW-Bxzu_Rx4Y1CcptxyxYtUY?usp=sharing) - keyboard typing, notebook writing, tablet tapping, mouse moving
+
+[Ryan's samples](https://drive.google.com/drive/folders/1Xu5f_8qDl11f0aVDb3aLcmhjIdHDhb0v?usp=sharing) - piano samples (note, arpeggiated chords, weird intervals)
