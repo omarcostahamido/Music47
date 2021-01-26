@@ -29,3 +29,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Ranjith samples](https://drive.google.com/drive/folders/1t4oepBZkcsdNrOSCiQDXhB6juXIaGaZP?usp=sharing) - keyboard faded, cut, and fast clicks
 
 [Kenichi's samples](https://drive.google.com/drive/folders/1I3ndmaL8Cc4jQIBhZuzdgs8QG3Wb7m4t?usp=sharing) - fading water bottle sound
+
+[Rushi's Samples](https://drive.google.com/drive/folders/1chrpQCBu7xyhmaGR-r2_xnwLK6UKG4q0?usp=sharing) - fading blop sound, blop sound, blop sound w/ alarm
