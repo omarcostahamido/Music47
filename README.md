@@ -9,3 +9,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Timothy Do's samples](https://drive.google.com/drive/folders/1mlqnd3nQy9vdmaIGKGm6WQXI9o11YE3k?usp=sharing) - EuphCA, EuphLively, EuphAAAA, EuphMarch
 
 [Simon Lee's samples](https://drive.google.com/drive/folders/17gInNFAVFjm3MtpyccZF4xKmtkdH7J8G?usp=sharing) - muffling, key clicking, metal tapping
+
+[Veronica's samples](https://drive.google.com/drive/folders/1NE1Xc0QUgfhrAF22MOfiQjw8DYn6gRsW?usp=sharing) - car door, drumsticks, hi-hat, skateboard
