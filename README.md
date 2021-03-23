@@ -39,3 +39,5 @@ Repo for Music 47 Intro to Telematics class of Winter 2021 @UCI
 [Ashley's samples](https://drive.google.com/drive/folders/19ORZUR47N1UH_jKhuxM1x4rdHaIA1gtE?usp=sharing) - clash, knocking, rubbing, voice
 
 [Junchi's samples](https://drive.google.com/drive/folders/1Yr7MUUGpMLoxXhiIqFUTBcXWJGBstRw_?usp=sharing) - piano samples
+
+[Lindsey's samples](https://drive.google.com/drive/folders/1M702SOK-8bmvbtUJSn-Tf27lwV6rxhx1?usp=sharing) - Piano 1+2+3
